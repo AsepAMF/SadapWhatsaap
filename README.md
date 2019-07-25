@@ -7,4 +7,5 @@ pkg install unzip
 git clone https://github.com/kingcracker/SadapWa
 cd SadapWa
 unzip sadap.zip
+cd sadap
 sh sadap.sh
