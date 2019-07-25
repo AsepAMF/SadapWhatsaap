@@ -1,0 +1,2 @@
+# SadapWa
+pkg install bash
